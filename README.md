@@ -2,12 +2,19 @@
 This application is for management of bookstore, specialised in backend implementing REST APIs in java springboot.
 
 Technologies Used
+
 Java Spring Boot for the backend.
+
 Spring Data JPA for database interaction.
+
 MySQL database for data storage.
+
 RESTful API endpoints for communication with db.
+
 Maven for dependency management.
-junit and Mockito for unit testing.
+
+junit and Mockito for unit testing
+
 Added jacoco aggrigator with more that 80% total and 100% branch coverage.
 
 
